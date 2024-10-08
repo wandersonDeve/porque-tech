@@ -1,0 +1,9 @@
+# Porque Tech?
+
+Na área de tecnologia, uma das coisas mais fascinantes é a capacidade de criar soluções que outras pessoas podem usar e se beneficiar. A possibilidade de desenvolver algo que resolve problemas reais sempre me encantou. Mesmo antes de conhecer a fundo a programação, eu já sentia essa necessidade de automatizar processos no meu dia a dia. Lembro que utilizava o Microsoft Access como banco de dados e o Excel para construir pequenas automações que facilitavam o trabalho, o que despertou em mim a curiosidade de entender como essas ferramentas funcionavam por trás.
+
+Quando descobri o mundo da programação, percebi que poderia levar essa habilidade a um nível completamente novo. Criar sistemas, aplicativos e automações mais robustas se tornou uma paixão, pois a tecnologia é uma área em constante evolução. Além disso, a sensação de ver algo que você desenvolveu sendo utilizado por outras pessoas e impactando positivamente suas vidas é extremamente gratificante. Essa conexão entre a lógica e a prática, aliada à possibilidade de melhorar processos e otimizar o trabalho das pessoas, me fez escolher a carreira tech.
+
+## Curiosidade sobre o Wanderson 🧐
+
+Antes de migrar para a área de tecnologia, minha trajetória foi bastante diversificada. Já fui professor temporário de Matemática, dei aulas particulares e trabalhei como auxiliar administrativo. Essas experiências me proporcionaram habilidades valiosas, como comunicação, organização e resolução de problemas, que aplico no meu dia a dia como desenvolvedor. A mudança de carreira aconteceu aos 31 anos, e desde então venho me dedicando inteiramente à área de tecnologia. Estou firme e forte nesse caminho, sempre buscando aprender e evoluir. Esse processo de transição foi desafiador, mas também me deu uma nova perspectiva sobre como podemos nos reinventar a qualquer momento.
